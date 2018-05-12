@@ -1,0 +1,32 @@
+_repo: Woodsideor-Look-Listen-and-Learn._18256
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18256-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hadley, Caroline
+    gutenberg_agent_id: '7907'
+    url: http://www.gutenberg.org/2009/agents/7907
+description: ''
+gutenberg_issued: '2006-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18256'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Storytelling -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Grandparents -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+title: 'Woodside
+
+  or, Look, Listen, and Learn.'
+url: http://www.gutenberg.org/ebooks/18256
